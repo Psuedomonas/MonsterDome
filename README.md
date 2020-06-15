@@ -1,5 +1,6 @@
 # MonsterDome
-overly simple python game
+
+Overly simple python game
 
 Purpose: 
 Provide the developer an interesting way to gain skills in programming increasingly complex software/code
